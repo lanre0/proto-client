@@ -1,0 +1,5 @@
+server:
+  port: 9015
+serverprop:
+   port: 8777
+   serverlocation: localhost
